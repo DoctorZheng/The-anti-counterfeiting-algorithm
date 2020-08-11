@@ -1,9 +1,9 @@
-# FUGC
+# The-anti-counterfeiting-algorithm
 
-## Codes for Feedback Unilateral Grid-based Clustering(simplify)
+## Codes for A system for identifying an anti-counterfeiting pattern based on the statistical difference in key image regions(simplify)
 
-- FUGC
-: C++ version of the FUGC
+- The-anti-counterfeiting-algorithm
+: matlab version of the algorithm
 algorithm.### Please refer to our following papers for algorithm details:
 
-> Zhaohui Zheng, and et.al. "Feedback Unilateral Grid-based Clustering Feature Matching for Remote Sensing Image Registration"
+> Zhaohui Zheng, and et.al. "A system for identifying an anti-counterfeiting pattern based on the statistical difference in key image regions"
