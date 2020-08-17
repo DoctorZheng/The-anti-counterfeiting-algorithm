@@ -3,7 +3,7 @@
 ## Codes for A system for identifying an anti-counterfeiting pattern based on the statistical difference in key image regions(simplify)
 
 - The-anti-counterfeiting-algorithm
-: matlab version of the algorithm
+: matlab version of the algorithm-----Myalgorithm.m
 
 Please refer to our following papers for algorithm details:
 
