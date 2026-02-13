@@ -9,4 +9,3 @@
 > Zhaohui Zheng, and et.al. "A system for identifying an anti-counterfeiting pattern based on the statistical difference in key image regions", Expert Systems With Applications, 2021, 183: 115410.
 
 
-Part of the code is still being sorted out
