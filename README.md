@@ -6,6 +6,6 @@
 
 ### Please refer to our following papers for algorithm details:
 
-> Zhaohui Zheng, and et.al. "A system for identifying an anti-counterfeiting pattern based on the statistical difference in key image regions", Expert Systems With Applications, 2021, 183: 115410.
+> Zhaohui Zheng, and et.al. "A system for identifying an anti-counterfeiting pattern based on the statistical difference in key image regions", Expert Systems With Applications, 2021, 183: 115410. [[PDF](/file/A system for identifying an anti-counterfeiting pattern based on the statistical difference in key image regions.pdf)]
 
 
